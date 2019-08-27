@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub labels",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icons/label32.png",
+    "default_title": "GitHub labels",
+    "default_popup": "popup/index.html"
+  },
+
+  "permissions": ["activeTab"]
+}

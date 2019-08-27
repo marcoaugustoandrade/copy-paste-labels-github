@@ -1,0 +1,22 @@
+.btn{
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #7E857F;
+  color: #FFF;
+  width: 200px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: rgb(142, 151, 144);
+}
+.btn__export{
+  display: none;
+}
+
+.labels{
+  list-style: none;
+}
+.labels > li{
+  
+}
